@@ -57,7 +57,7 @@ The **PriSwin-Net** model is an advanced adaptation of [PriCheXy-Net](https://gi
 
 3. **Download Pre-trained Models** (optional):
 
-   Download pre-trained weights from [here](https://github.com/your-username/Pre-trained-Weights) and place them in the `./networks/` directory.
+   Download pre-trained weights from [here](https://github.com/rajaatreja/Pre-trained-Weights) and place them in the `./networks/` directory.
 
 ## Usage
 
