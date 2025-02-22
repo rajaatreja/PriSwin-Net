@@ -6,10 +6,14 @@ A deep learning model for the anonymization and classification of chest radiogra
 
 The **PriSwin-Net** model is an advanced adaptation of [PriCheXy-Net](https://github.com/kaipackhaeuser/PriCheXy-Net), aiming to anonymize chest radiographs while retaining sufficient data utility for effective classification tasks. It leverages a Swin Transformer architecture to enhance privacy preservation and classification accuracy.
 
-<figure>
-    <img src="PriSwin-Net.png" width="600">
-    <figcaption>Overview of PriSwin-Net Architecture</figcaption>
-</figure>
+<div style="text-align: center;">
+    <figure>
+        <img src="PriSwin-Net.png" width="600">
+        <br>
+        <figcaption>Overview of PriSwin-Net Architecture. Detailed description can be found in my <a href="Thesis.pdf">Thesis</a> work.</figcaption>
+    </figure>
+</div>
+
 
 ### Key Features
 
